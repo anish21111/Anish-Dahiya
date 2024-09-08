@@ -1,4 +1,4 @@
-![Welcome](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+![Welcome](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdzMWRiZXlycG8xb21yYTFpYzVoenQ4aXB4bHRnejd3MTRjaXM2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # 👋 Hi, I'm Anish Dahiya!
 A versatile and innovative Computer Science and AI/ML enthusiast, currently pursuing my **BE in CSE with a specialization in Artificial Intelligence and Machine Learning** from Chandigarh University.
