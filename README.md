@@ -7,7 +7,7 @@ I am passionate about using cutting-edge technology to solve complex real-world 
 ---
 
 ## 🎓 **Education**
-- **BE CSE (AI/ML)** - Chandigarh University (6th Sem) | **CGPA**: 7.5
+- **BE CSE (AI/ML)** - Chandigarh University (7th Sem) | **CGPA**: 7.5
 - **Senior Secondary (XII)** - Science (Med+Maths), S.R Century Public School | **87%**
 - **Secondary School (X)** - S.R Century Public School | **93%**
 
